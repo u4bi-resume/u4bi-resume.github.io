@@ -1,0 +1,191 @@
+{
+    "header" : {
+        "avatar" : "https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAkYAAAAJDEwMzA4OGQ0LTdjNDktNGI2Ni1hYzY4LTljNjQ4MjBkM2U3MQ.jpg",
+        "name": "Myungjae Yu",
+        "job" : "Frontend Developer",
+        "bio" : "하드코딩을 좋아하고 css 모션그래픽에 관심이 많으며 무언가 항상 만들고 열시간 넘게 자리에 앉아 코딩을 해도 즐거운 개발이 천직인 프론트앤드 개발자입니다.",
+        "email" : "u4bi@daum.net",
+        "icon" : {
+            "github"    : "https://github.com/u4bi",
+            "facebook"  : "https://www.facebook.com/ymjcode",
+            "linkdin"   : "https://www.linkedin.com/in/myungj2ee",
+            "website"   : "https://u4bi.github.io"
+        }
+    },
+    "projects" : [
+        {
+            "name" : "Developers Ground 개발자 지역 네트워킹 플랫폼",
+            "link" : "https://github.com/u4bi-dev/developers-ground",
+            "date" : {
+                "start" : "2017/09/10",
+                "end"   : "2017/09/21"
+            },
+            "bio" : "토이 프로젝트 형태로 개발하고 있으며 Angular Typescript RxJS를 활용한 플랫폼 개발"
+        },
+        {
+            "name" : "resume generator 이력서 템플릿 생성 라이브러리",
+            "link" : "https://github.com/u4bi-dev/resume-generator",
+            "date" : {
+                "start" : "2017/09/09",
+                "end"   : "2017/09/11"
+            },
+            "bio" : "Typescript로 구현되었고 Rollup으로 번들링되어 있으며 JSON 데이터를 동적으로 읽어 이력서 양식을 출력하는 라이브러리"
+        },
+        {
+            "name" : "Tipmoa 팁 관리 가계부 하이브리드 앱",
+            "link" : "https://github.com/u4bi-dev/tipmoa",
+            "date" : {
+                "start" : "2017/07/16",
+                "end"   : "2017/08/22"
+            },
+            "bio" : "일자별 누적된 팁 관리와 동일 업계 종사자들간의 소통이 가능한 하이브리드 앱으로 Ionic3 Typescript angularfire2-offline를 활용한 하이브리드 앱"
+        },
+        {
+            "name" : "10분만에 배우는 깃헙(github) 기본기",
+            "link" : "https://www.inflearn.com/course/github-%EA%B8%B0%EB%B3%B8%EA%B8%B0-10%EB%B6%84",
+            "date" : {
+                "start" : "2016/12/15",
+                "end"   : "2016/12/16"                
+            },
+            "bio" : "깃헙에서 가장 대표적인 사용법들을 아주 간단하고 빠르게 배워볼 수 있는 인프런 무료 동영상 강좌"
+        },
+        {
+            "name" : "Github Organization : u4bi-dev",
+            "link" : "https://github.com/u4bi-dev",
+            "date" : {
+                "start" : "2016/12/23",
+                "end"   : "ing"                
+            },
+            "bio" : "간혹 개발에 대한 본인의 관심도가 높은 프로젝트를 모아놓는 공간입니다."
+        },        
+        {
+            "name" : "링크드인 프로필란에 소개된 프로젝트도 다양합니다.",
+            "link" : "https://www.linkedin.com/in/myungj2ee",
+            "date" : {
+                "start" : "2015/12/21",
+                "end"   : "2016/06/20"                
+            },
+            "bio" : "오래된 프로젝트들로 현재의 기술 스택에 맞지 않아 기재하지 않았습니다."
+        }        
+    ],
+    "skills" : [
+        { 
+            "title" : "주력 Programming Languages",
+            "entry" : [
+                "ES6",
+                " Javascript",
+                " Typescript",
+                " Coffeescript"
+            ]
+        },
+        { 
+            "title" : "주력 Web Framework",
+            "entry" : [
+                "Angular1",
+                " Angular4",
+                " Ionic3"
+            ]
+        },
+        { 
+            "title" : "주력 WebGL JS Library",
+            "entry" : [
+                "Three.js"
+            ]
+        },
+        { 
+            "title" : "주력 2D Canvas Game Framework",
+            "entry" : [
+                "Phaser.js"
+            ]
+        },        
+        { 
+            "title" : "주력 Node API Server",
+            "entry" : [
+                "restify.js",
+                " json-server"
+            ]
+        },
+        { 
+            "title" : "주력 PHP API Server",
+            "entry" : [
+                "Slim Framework"                 
+            ]
+        },
+        { 
+            "title" : "주력 NoSQL",
+            "entry" : [
+                "Firebase",
+                " mongoose"
+            ]
+        },
+        {
+            "title" : "주력 Query Lenguages",
+            "entry" : [
+                "MongoDB",
+                " GraphQL"
+            ]
+        },
+        {
+            "title" : "협업툴",
+            "entry" : [
+                "Atlassian Jira",
+                " Slack",
+                " Jandi"
+            ]
+        }
+    ],
+    "experience" : [
+        {
+            "name" : "렛시",
+            "link" : "http://letsee.io",
+            "job"  : "Frontend Developer",
+            "date" : {
+                "start" : "2017/02/22",
+                "end"   : "2017/07/31"
+            },
+            "address" : "Daechi-dong, Seoul",
+            "bios" : [
+                "기존 데모 웹앱 엔진 버전업에 따른 마이그레이션 작업 진행",
+                "렛시 엔진을 활용한 AR 웹앱 튜토리얼 작업물 구성",                
+                "렛시 브라우저 Stikers 웹앱 서비스 개발",
+                "가상현실 콘텐츠 프런티어 프로젝트 렛시 월드(AR Letsee World) 개발"
+            ]
+        },
+        {
+            "name" : "밸런스 브레인",
+            "link" : "http://www.balancebrain.co.kr",
+            "job"  : "Frontend Developer",
+            "date" : {
+                "start" : "2016/09/07",
+                "end"   : "2016/10/26"
+            },
+            "address" : "Jamsil, Seoul",
+            "bios" : [
+                "아동 학습능력 검사 PPLT 웹 프론트 개발" 
+            ]
+        }        
+    ],
+    "eduandcert" : {
+        "edu" : [
+            {
+                "title" : "몽골 국립대학교",
+                "name"  : "몽골어학과 자퇴",
+                "date" : {
+                    "start" : "2014/02/02",
+                    "end" : "2014/05/04"
+                }
+            },
+            {
+                "title" : "삼성SDS 멀티캠퍼스",
+                "name"  : "안드로이드 자바웹앱 과정",
+                "date" : {
+                    "start" : "2015/12/21",
+                    "end" : "2016/06/20"
+                }
+            }
+        ]
+    },
+    "footer" : {
+        "live" : false
+    }
+}
