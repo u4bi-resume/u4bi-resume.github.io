@@ -1,0 +1,241 @@
+{
+    "header" : {
+      "avatar" : "https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/45421930_2176526532587260_2571153670347423744_n.jpg?_nc_cat=110&_nc_ht=scontent-icn1-1.xx&oh=ec9e43af90afc9fa81e4d151d04e7da6&oe=5C83FD4A",
+      "name": "Myungjae Yu",
+      "job" : "Frontend Developer",
+      "bio" : "안녕하세요? 저는 신입 프론트엔드 개발자입니다. 오랜 기간 프론트엔드 개발을 했지만 회사를 다닌 경력이 적습니다. 2번의 입사를 하였고 모두 1년채 다니지 않았습니다. 세 번째 회사는 저에게 의미가 매우 큽니다. 좋은 인연을 맺고 싶고 회사에 큰 기여를 하고 싶은 바람입니다. 저는 어릴 적부터 항상 무언가 만드는 걸 좋아합니다. 제가 필요로 느껴 만드는 것에 재미를 느낍니다. 누군가는 저걸 왜 만드는 걸까? 라고 쉽게 말할 수 있지만 저는 필요로 느껴 만들었고 그걸로 만족합니다. 그리고 그것에 공감해주는 사람들에 기뻐합니다. 그것이 저의 개발 원동력이 아닐까 싶습니다. 가끔은 저의 선생님이 가끔은 저의 형, 누나가 되어주실 회사를 찾고 있습니다. 오랜 기간 함께 만드는 서비스를 만들고 싶습니다.",
+      "email" : "u4bi@yahoo.com",
+      "icon" : {
+        "github"    : "https://github.com/myungjaeyu",
+        "facebook"  : "https://www.facebook.com/facecode10",
+        "website"   : "https://myungjaeyu.github.io"
+      }
+    },
+    "projects" : [
+      {
+        "name" : "배트픽 - 집단지성적 스포츠 토토 예측 웹앱",
+        "link" : "https://betpick.kr",
+        "date" : {
+          "start" : "2018/11/12",
+          "end"   : "2018/11/15"
+        },
+        "bio" : "서버리스 아키텍처를 활용한 서버사이드 렌더링 기반의 React 웹앱 프로젝트이며 사용된 기술 스택은 아래와 같습니다. 인프라구성은 aws lambda, cf, acm, route53, dynamodb를 활용하였으며 서버사이드는 sls, express, dynamoose로 구성되었고 클라이언트는 react, redux-observable를 기반으로 개발하였습니다."
+      },
+      {
+        "name" : "배트맵 - 내 근처 스포츠 토토 판매점 찾기",
+        "link" : "https://betmap.kr",
+        "date" : {
+          "start" : "2018/10/15",
+          "end"   : "2018/10/22"
+        },
+        "bio" : "서버리스 아키텍처를 통해 배포가 진행되었습니다. 스포츠토토(www.sportstoto.co.kr) 웹 페이지에서 판매점 주소를 일괄적으로 크롤링한 후 이를 구글 맵 API에 대입해 geocode를 수집하여 데이터를 병합하였고 이를 Daum Map API를 통해 렌더링하였습니다. React기반에서 Daum Map API를 사용함에 번거로움이 있어 daum-maps-react라 하는 라이브러리를 개발, 배포하였습니다."
+      },
+      {
+        "name" : "daum-maps-react",
+        "link" : "https://github.com/myungjaeyu/daum-maps-react",
+        "date" : {
+          "start" : "2018/10/12",
+          "end"   : "2018/10/12"
+        },
+        "bio" : "다음(카카오) 맵 API를 React 내에서 간편하게 적용할 수 있도록 하는 자바스크립트 라이브러리입니다."
+      },
+      {
+        "name" : "url-pattern-match",
+        "link" : "https://github.com/myungjaeyu/url-pattern-match",
+        "date" : {
+          "start" : "2017/12/02",
+          "end"   : "2017/12/04"
+        },
+        "bio" : "두 URL에 대한 패턴 매칭을 판별해주는 자바스크립트 라이브러리입니다. 현재 디시클리너(Dcleaner) 코어 로직에서 사용되고 있습니다."
+      },
+      {
+        "name" : "디시클리너(DCleaner)",
+        "link" : "https://dcleaner.github.io",
+        "date" : {
+          "start" : "2017/12/21",
+          "end"   : "2018/11/15"
+        },
+        "bio" : "크롬 확장 프로그램(Chrome Extension)으로 디시인사이드 내 작성된 게시글을 모두 삭제해주는 프로그램입니다. 2018년도 1월에 완성되어 현재까지 유지보수 중에 있는 프로젝트입니다. 현재 상업적으로 판매 중이며 가격 정책은 9,000원, 11,000원, 15,000원 세 등급으로 나뉩니다. 카카오 플러스친구 '디시클리너'는 560여명의 플러스친구를 보유 중에 있습니다."
+      },
+      {
+        "name" : "json-dotenv",
+        "link" : "https://github.com/myungjaeyu/json-dotenv",
+        "date" : {
+          "start" : "2018/05/24",
+          "end"   : "2018/05/25"
+        },
+        "bio" : "프로젝트에 사용된 environment 변수들을 JSON 포맷으로 관리할 수 있는 자바스크립트 라이브러리입니다."
+      },
+      {
+        "name" : "vttizer",
+        "link" : "https://github.com/myungjaeyu/vttizer",
+        "date" : {
+          "start" : "2018/02/06",
+          "end"   : "2018/02/15"
+        },
+        "bio" : "SMI, SRT, VTT 형식의 자막 파일을 HTML5 Video 내 송출하게 하는 자바스크립트 라이브러리입니다. 각각의 포맷에 맞는 파서(SMIParser, SRTParser, VTTParser)를 통해 분류한 후 HTML5 비디오 엘리먼트 내 TextTrack 개체에 담는 형태로 개발되었습니다."
+      },
+      {
+        "name" : "COLORS 인터렉티브 3D WebApp",
+        "link" : "https://github.com/myungjaeyu/COLORS",
+        "date" : {
+          "start" : "2018/03/02",
+          "end"   : "2018/03/09"
+        },
+        "bio" : "Three.js를 활용한 3D 인터렉티브 웹앱 프로젝트입니다. 유튜브 COLORS 채널의 영상들을 Three.js에서 제공하는 캔버스 렌더러를 통해 맵핑하였고 이에 인터렉티브한 액션을 가미하였습니다."
+      },
+      {
+        "name" : "노점(nojum) 프로젝트",
+        "link" : "https://nojum.github.io/nojum-proto",
+        "date" : {
+          "start" : "2018/05/06",
+          "end"   : "2018/08/10"
+        },
+        "bio" : "사업은 아직 두렵고 내가 만든 무언가 또는 물건을 판매해보면서 사람들의 반응을 보고 사업의 꿈을 키우고 싶을 때 가볍게 노점으로 시작하는 서비스 플랫폼입니다. 현재 타 프로젝트 개발 관련 문제로 인해 잠시 중단된 상태입니다. 내년 여름 중순에 서비스를 배포할 생각을 염두에 두고 있습니다."
+      },
+      {
+        "name" : "resume-generator",
+        "link" : "https://github.com/u4bi-dev/resume-generator",
+        "date" : {
+          "start" : "2017/09/06",
+          "end"   : "2017/09/08"
+        },
+        "bio" : "이력서 작성 템플릿 라이브러리이며 TypeScript로 작성되었고 모듈은 Rollup.js를 통해 번들링 되었습니다. JSON 포맷을 통해 정규화된 양식의 이력서를 구성할 수 있으며 현재 보시고 계신 양식도 해당 라이브러리를 적용하여 렌더링하고 있습니다."
+      },
+      {
+        "name" : "",
+        "date" : {
+          "start" : "",
+          "end"   : ""
+        },
+        "bio" : "https://github.com/u4bi-dev | https://github.com/u4bi-sev | https://github.com/u4bi-store"
+      }      
+    ],
+    "skills" : [
+      { "title" : "Programming Languages",
+        "entry" : [
+          "ES6",
+          " ES5",
+          " Typescript",
+          " Clojure"
+      ]},
+      { 
+        "title" : "Web Framework",
+        "entry" : [
+          "SSR-React",
+          " Angular2+",
+          " Angular",
+          " vainilla"
+      ]},
+      { 
+        "title" : "Serverside",
+        "entry" : [
+          "express",
+          " ring(Clojure)"
+      ]},
+      { 
+        "title" : "Database",
+        "entry" : [
+          "Postgresql",
+          " Dynamodb"
+      ]},
+      { 
+        "title" : "AWS Infra",
+        "entry" : [
+          "Lambda",
+          " CloudFront",
+          " CloudFormation",
+          " CertificateManager",
+          " Route53"
+      ]},
+      { 
+        "title" : "Liberry",
+        "entry" : [
+          "Rambda.js",
+          " Rxjs6"
+      ]},
+      { 
+        "title" : "Redux",
+        "entry" : [
+          "redux-observable"
+      ]},
+      { 
+        "title" : "Module bundler",
+        "entry" : [
+          "rollup",
+          " serverless-webpack"
+      ]},
+      { 
+        "title" : "Test runner",
+        "entry" : [
+          "ava.js",
+          " jest"
+      ]}
+    ],
+    "experience" : [
+      {
+        "name" : "밸런스 브레인",
+        "job"  : "Frontend Developer",
+        "date" : {
+          "start" : "2016/09/07",
+          "end"   : "2016/10/31"
+        },
+        "address" : "Jamsil, Seoul",
+        "bios" : [
+          "아동 두뇌학습 능력검사(PPLT) 테스트 결과 페이지 렌더링",
+          "사회성 놀이 검사(BALANCE PLAY) 테스트 결과 페이지 렌더링"
+        ]
+      },
+      {
+        "name" : "렛시",
+        "job"  : "Software Developer",        
+        "date" : {
+          "start" : "2017/02/02",
+          "end"   : "2017/07/31"
+        },
+        "address" : "Samseong, Seoul",
+        "bios" : [
+          "레거시 프로젝트 버전 마이그레이션",
+          "렛시 브라우저 내 모듈 라이브러리 개발(raycasting, 3d model renderer)",
+          "커스텀 엘리먼트(Custom element)를 활용한 AR DOM element 라이브러리 개발",
+          "렛시 브라우저 AR 스티커 WebApp 개발",
+          "렛시월드(AR Letsee World) 정부 과제 클라이언트(Frontend) 개발"
+        ]
+      },
+      {
+        "name" : "소프트웨어 마에스트로",
+        "job"  : "9기 연수생",        
+        "date" : {
+          "start" : "2018/06/01",
+          "end"   : "2018/11/30"
+        },
+        "address" : "Yeoksam, Seoul",
+        "bios" : [
+          "온라인 마케팅 자동화(instagram, facebook) 프로젝트팀",
+          "AWS를 활용한 인프라 아키텍처 설계",
+          "React를 활용한 웹 서비스 구조 설계",
+          "마케팅 자동화 관련 모듈 라이브러리 구성",
+          "circle CI 활용한 테스트, 배포 환경 구성",
+          "Jira confluence를 활용한 협업 환경 조성",
+          "Slack 협업 환경 구성(분류별 채널 생성, bitbucket, confluence 봇 연동)"
+        ]
+      }
+    ],
+    "eduandcert" : {
+      "edu" : [
+        {
+          "title" : "몽골 국립 대학교",
+          "name"  : "몽골어학과",
+          "date" : {
+            "start" : "2014/02/18",
+            "end" : "2014/04/02"
+          }
+        }
+      ],
+      "cert" : [
+      ]
+    },
+    "footer" : {
+        "live": false
+    }
+}
