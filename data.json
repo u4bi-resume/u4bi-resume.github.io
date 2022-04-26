@@ -1,0 +1,377 @@
+{
+    "header" : {
+      "avatar" : "https://avatars0.githubusercontent.com/u/21367010?s=460&v=4",
+      "name": "Myungjae Yu",
+      "job" : "Javascript Developer",
+      "bio" : "안녕하세요. 저는 자바스크립트 개발자입니다. 좋은 에너지의 사람들과 좋은 인연을 맺고 싶습니다. 저의 능력으로 회사에 큰 기여를 하고 싶은 바람이 있습니다. 저는 어릴 적부터 항상 무언가 만드는 걸 좋아했습니다. 제가 필요로 하는 것을 만드는 것에 재미를 느낍니다. 누군가는 저걸 왜 만드는 걸까? 라고 쉽게 말할 수도 있겠지만 저는 그것이 필요함을 느껴 만들었고 그것으로 만족합니다. 그리고 그것에 공감해주는 사람들에게 큰 기쁨을 느낍니다. 그것이 저의 개발 원동력이라고 생각합니다. 가끔은 저의 선생님이, 가끔은 저의 형, 누나가 되어주실 회사를 찾고 있습니다. 오랜 기간 함께 하는 서비스를 만들고 싶습니다.",
+      "email" : "u4bi@yahoo.com",
+      "icon" : {
+        "github"    : "https://github.com/myungjaeyu",
+        "facebook"  : "https://www.facebook.com/myungjae",
+        "instagram" : "https://www.instagram.com/myungjaeyu",
+        "website"   : "https://myungjaeyu.github.io"
+      }
+    },
+    "projects" : [
+      {
+        "name" : "스포츠 가상 베팅 콘텐츠 커뮤니티 서비스",
+        "link" : "https://www.wanted.co.kr/gigs/api-v2/download/experts/20136/19g61kwt1jt59",
+        "date" : {
+          "start": "",
+          "end": ""
+        },
+        "bio": "개인 프로젝트 및 운영"
+      },
+      {
+        "name" : "나비 아트센터 AI 젠이를 도와줘 웹개발",
+        "link" : "https://www.brainmedia.co.kr/MediaContent/MediaContentView.aspx?MenuCd=BRAINTRAINING&contIdx=22176",
+        "date" : {
+          "start": "",
+          "end": ""
+        },
+        "bio": "아트센터 나비x서울대공과대학팀에서 협업한 AI젠이 엔진연동 및 웹사이트 외주 웹개발"
+      },
+      {
+        "name" : "정보화교육 디지털시민법정 게이미피케이션 웹개발",
+        "link" : "https://youtu.be/wrn68i4IDdY",
+        "date" : {
+          "start": "",
+          "end": ""
+        },
+        "bio": "아인세 정보화교육 게이미피케이션 웹사이트 외주 웹개발"
+      },
+      {
+        "name" : "창원시주민대회 투표 솔루션 제작",
+        "link" : "https://webcache.googleusercontent.com/search?q=cache:X2ATdIrHQ-IJ:https://cwpeoplepower.imweb.me/18/%3Fidx%3D7159691%26bmode%3Dview+&cd=1&hl=ko&ct=clnk&gl=kr",
+        "date" : {
+          "start": "",
+          "end": ""
+        },
+        "bio": "창원시주민대회 투표 솔류션 웹사이트 본인인증 투표통계 외주 웹개발"
+      },
+      {
+        "name" : "국내 단체 당원관리 솔루션 제작",
+        "link" : "http://koreacrpgp.com/",
+        "date" : {
+          "start": "2020/03/14",
+          "end": "2020/03/16"
+        },
+        "bio": "국내 단체 지역별 당원 메세지 전송, 후원인 관리 솔루션 외주 웹개발"
+      },
+      {
+        "name" : "최선어학원 온라인수업 홈페이지, 수업도구 서비스 개발",
+        "link" : "https://youtu.be/as6pBDua1Bo",
+        "date" : {
+          "start": "",
+          "end": ""
+        },
+        "bio": "최선어학원 온라인수업 홈페이지, 수업도구에 대한 모든 기능을 개발하였으며, 최선어학원 학원생들의 수업에 활용되고 있습니다."
+      },
+      {
+        "name" : "차박지도 어플 초기 데이터 수집 가공",
+        "link" : "https://youtu.be/Nt4k8gXAPZY",
+        "date" : {
+          "start": "",
+          "end": ""
+        },
+        "bio": "차박지도(youtu.be/Nt4k8gXAPZY) 앱내 초기 캠핑, 인기 차박지, 화장실, 리뷰 데이터 수집 가공"
+      },
+      {
+        "name" : "노량진코인 데이터 수집 기능개발",
+        "link" : "https://url.kr/81who9",
+        "date" : {
+          "start": "",
+          "end": ""
+        },
+        "bio": "노량진코인 사내 프로젝트 데이터 수집 스케줄러, 기능 개발"
+      },      
+      {
+        "name" : "취존만담 기능 개발, 유지보수 업무",
+        "link" : "https://mandam.co.kr",
+        "date" : {
+          "start": "",
+          "end": ""
+        },
+        "bio": "취존만담(mandam.co.kr) 기능 개발 유지보수 업무"
+      },
+      {
+        "name" : "사내 서비스 \"꿀떡\"",
+        "link" : "http://archive.vn/https://uniquegood.ggultteok.me/*",
+        "date" : {
+          "start": "2020/03/14",
+          "end": "2020/03/16"
+        },
+        "bio": "주말을 이용해 유니크굿 사내 서비스 \"꿀떡\"을 기획하였고 슬랙 챗봇과 클라이언트를 개발하였습니다. www.heytaco.chat 서비스를 레퍼런스로 삼았으며, 헤이타코의 pricing 정책은 인원당 3달러입니다. 유니크굿 컴퍼니의 인원은 총 20명이며 헤이타코! 서비스를 직접적으로 만듬으로써 한 달에 약 6만원대의 돈을 절약할 수 있게 되었습니다. 꿀떡은 하루에 인 당 5개씩 주어지며, 이 떡을 다른 사람에게 칭찬을 하며 줄 수 있습니다. 이를 랭킹으로 보여주고 꿀떡을 많이 모으면 자체적으로 연 리워드 형태로 아이템을 획득할 수 있는 서비스입니다."
+      },
+      {
+        "name" : "나만의 상품을 개인 스토어 프로젝트",
+        "link" : "https://erer-7oxut1hi4.now.sh",
+        "date" : {
+          "start": "2020",
+          "end": "2020"
+        },
+        "bio": "https://github.com/myungjaeyu/nextjs-starter를 활용한 스토어 프로젝트입니다."
+      },
+      {
+        "name" : "instaket : 인스타그램 마케팅 자동화 서비스",
+        "link" : "https://instaket.kr",
+        "date" : {
+          "start" : "2019/02/13",
+          "end" : "2019/04/15"
+        },
+        "bio" : "디시클리너(DCleaner)와 기존 SW Maestro 프로젝트에서의 영감을 살려 크롬 확장 프로그램(Chrome Extension)으로 인스타그램 마케팅 자동화 서비스를 구현하는 프로젝트입니다. 현재 상용 서비스로 고도화 중이며 관련 코어 기능 개발을 모두 끝낸 상태로 실제 내부 테스트를 마치고 본인, 지인 instagram 계정 관리에 활용중인 상태입니다. (현재 서비스 진행 중: https://www.instagram.com/instaket_eun)"
+      },
+      {
+        "name" : "chrome-storage 헬퍼 라이브러리",
+        "link" : "https://github.com/myungjaeyu/chrome-storage",
+        "date" : {
+          "start" : "2019/03/19",
+          "end" : "2019/03/21"
+        },
+        "bio" : "Chrome Extension 제작 시 지원되는 네이티브 스토리지 API가 단순하여 한 뎁스만 내려가도 중첩된 구조의 아키텍처 수정/추가/제어가 어려웠던 문제가 있었습니다. 로컬 데이터 저장 시 확장성 있는 아키텍처 설계를 위해 제작한 헬퍼 라이브러리이며, 인스타그램마케팅서비스(instaket.kr) 제작 중 여러 가공 데이터(유저 정보, 인증 정보, 진행 로그, 일자별 결과 레포트 데이터 등)를 저장하기 위해 helper 라이브러리를 제작하여 적용하였습니다."
+      },
+      {
+        "name" : "배트맵 - 내 근처 스포츠 토토 판매점 찾기",
+        "link" : "https://betmap.kr",
+        "date" : {
+          "start" : "2018/10/15",
+          "end"   : "2018/10/22"
+        },
+        "bio" : "서버리스 아키텍처를 통해 배포가 진행되었습니다. 스포츠토토(www.sportstoto.co.kr) 웹 페이지에서 판매점 주소를 일괄적으로 크롤링한 후 이를 구글 맵 API에 대입해 geocode를 수집하여 데이터를 병합하였고 이를 Daum Map API를 통해 렌더링하였습니다. React기반에서 Daum Map API를 사용함에 번거로움이 있어 daum-maps-react라 하는 라이브러리를 개발, 배포하였습니다."
+      },
+      {
+        "name" : "daum-maps-react",
+        "link" : "https://github.com/myungjaeyu/daum-maps-react",
+        "date" : {
+          "start" : "2018/10/12",
+          "end"   : "2018/10/12"
+        },
+        "bio" : "다음(카카오) 맵 API를 React 내에서 간편하게 적용할 수 있도록 하는 자바스크립트 라이브러리입니다."
+      },
+      {
+        "name" : "url-pattern-match",
+        "link" : "https://github.com/myungjaeyu/url-pattern-match",
+        "date" : {
+          "start" : "2017/12/02",
+          "end"   : "2017/12/04"
+        },
+        "bio" : "두 URL에 대한 패턴 매칭을 판별해주는 자바스크립트 라이브러리입니다. 현재 디시클리너(Dcleaner) 코어 로직에서 사용되고 있습니다."
+      },
+      {
+        "name" : "디시클리너(DCleaner)",
+        "link" : "https://dcleaner.github.io",
+        "date" : {
+          "start" : "2017/12/21",
+          "end"   : "2018/11/15"
+        },
+        "bio" : "크롬 확장 프로그램(Chrome Extension)으로 디시인사이드 내 작성된 게시글을 모두 삭제해주는 프로그램입니다. 2018년도 1월에 완성되어 현재까지 유지보수 중에 있는 프로젝트입니다. 현재 상업적으로 판매 중이며 가격 정책은 9,000원, 11,000원, 15,000원 세 등급으로 나뉩니다. 카카오 플러스친구 '디시클리너'는 832여명의 플러스친구를 보유 중에 있습니다. https://pf.kakao.com/_gBPuC"
+      },
+      {
+        "name" : "json-dotenv",
+        "link" : "https://github.com/myungjaeyu/json-dotenv",
+        "date" : {
+          "start" : "2018/05/24",
+          "end"   : "2018/05/25"
+        },
+        "bio" : "프로젝트에 사용된 environment 변수들을 JSON 포맷으로 관리할 수 있는 자바스크립트 라이브러리입니다."
+      },
+      {
+        "name" : "vttizer",
+        "link" : "https://github.com/myungjaeyu/vttizer",
+        "date" : {
+          "start" : "2018/02/06",
+          "end"   : "2018/02/15"
+        },
+        "bio" : "SMI, SRT, VTT 형식의 자막 파일을 HTML5 Video 내 송출하게 하는 자바스크립트 라이브러리입니다. 각각의 포맷에 맞는 파서(SMIParser, SRTParser, VTTParser)를 통해 분류한 후 HTML5 비디오 엘리먼트 내 TextTrack 개체에 담는 형태로 개발되었습니다."
+      },
+      {
+        "name" : "COLORS 인터렉티브 3D WebApp",
+        "link" : "https://github.com/myungjaeyu/COLORS",
+        "date" : {
+          "start" : "2018/03/02",
+          "end"   : "2018/03/09"
+        },
+        "bio" : "Three.js를 활용한 3D 인터렉티브 웹앱 프로젝트입니다. 유튜브 COLORS 채널의 영상들을 Three.js에서 제공하는 캔버스 렌더러를 통해 맵핑하였고 이에 인터렉티브한 액션을 가미하였습니다."
+      },
+      {
+        "name" : "resume-generator",
+        "link" : "https://github.com/u4bi-dev/resume-generator",
+        "date" : {
+          "start" : "2017/09/06",
+          "end"   : "2017/09/08"
+        },
+        "bio" : "이력서 작성 템플릿 라이브러리이며 TypeScript로 작성되었고 모듈은 Rollup.js를 통해 번들링 되었습니다. JSON 포맷을 통해 정규화된 양식의 이력서를 구성할 수 있으며 현재 보시고 계신 양식도 해당 라이브러리를 적용하여 렌더링하고 있습니다."
+      },
+      {
+        "name" : "렛시 브라우저 AR 스티커 웹앱 개발",
+        "link" : "https://www.facebook.com/letsee.io/videos/910022835803549/",
+        "date" : {
+          "start" : "2017/05/06",
+          "end"   : "2017/05/20"
+        },
+        "bio" : "렛시 브라우저(웹 증강현실 브라우저) 내 AR 스티커 웹앱 개발을 담당하였으며 Angular1 프레임워크와 Three.js를 활용하여 스티커 웹앱을 구현하였고 후에 React로 구조가 변경되었습니다. 스티커 탈착, 부착, 제거, 텍스트 작성, 이동과 같은 저작 환경을 구현하였습니다."
+      },
+      {
+        "name" : "렛시월드(AR Letsee World) 정부 과제 클라이언트(Frontend) 개발",
+        "link" : "https://drive.google.com/open?id=0B3XkfYbZArSfWWFmN3d5ODRQZ2c",
+        "date" : {
+          "start" : "2017/05/01",
+          "end"   : "2017/07/10"
+        },
+        "bio" : "렛시 브라우저(웹 증강현실 브라우저) 내 렛시월드(AR Letsee World)라 하는 시범 서비스의 클라이언트 개발을 담당하였으며 랭킹 보드, 현재 위치 보드, 내 주변 플레이스 마커, AR 미니게임등의 전반적인 클라이언트를 구현하였습니다."
+      }
+    ],
+    "skills" : [
+      { "title" : "Languages",
+        "entry" : [
+          "es5",
+          " typescript",
+          " clojure"
+      ]},
+      { 
+        "title" : "Web",
+        "entry" : [
+          "react(next.js)",
+          " vanilla.js",
+          " vue(outsourcing)"
+      ]},
+      { 
+        "title" : "Server",
+        "entry" : [
+          "nestjs",
+          " ring(clojure)"
+      ]},
+      { 
+        "title" : "Database",
+        "entry" : [
+          "typeorm(mysql, pg)"
+      ]},
+      { 
+        "title" : "Liberry",
+        "entry" : [
+          "underscore.js"
+      ]},
+      { 
+        "title" : "Redux",
+        "entry" : [
+          "unstated.js",
+          " redux-observable"
+      ]},
+      { 
+        "title" : "Test runner",
+        "entry" : [
+          "jest",
+          " ava.js"
+      ]},
+      { 
+        "title" : "Infra",
+        "entry" : [
+          "aws serverless",
+          " conoha.jp(vps)",
+          " cloudflare"
+      ]}      
+    ],
+    "experience" : [
+      {
+        "name" : "렛시",
+        "job"  : "Software Developer",        
+        "date" : {
+          "start" : "2017/02/02",
+          "end"   : "2017/07/31"
+        },
+        "address" : "Samseong, Seoul",
+        "bios" : [
+          "레거시 프로젝트 버전 마이그레이션",
+          "렛시 브라우저 내 모듈 라이브러리 개발(raycasting, 3d model renderer)",
+          "커스텀 엘리먼트(Custom element)를 활용한 AR DOM element 라이브러리 개발",
+          "렛시 브라우저 AR 스티커 WebApp 개발",
+          "렛시월드(AR Letsee World) 정부 과제 클라이언트(Frontend) 개발"
+        ]
+      },
+      {
+        "name" : "소프트웨어 마에스트로",
+        "job"  : "9기 연수생",        
+        "date" : {
+          "start" : "2018/06/01",
+          "end"   : "2018/11/30"
+        },
+        "address" : "Yeoksam, Seoul",
+        "bios" : [
+          "온라인 마케팅 자동화 프로젝트팀",
+          "AWS를 활용한 인프라 아키텍처 설계",
+          "React를 활용한 웹 서비스 구조 설계",
+          "마케팅 자동화 관련 모듈 라이브러리 구성",
+          "circle CI 활용한 테스트, 배포 환경 구성",
+          "Jira confluence를 활용한 협업 환경 조성",
+          "Slack 협업 환경 구성(분류별 채널 생성, bitbucket, confluence 봇 연동)"
+        ]
+      },
+      {
+        "name" : "유니크굿컴퍼니",
+        "job" : "Frontend Developer",
+        "date" : {
+          "start" : "2020/01/29",
+          "end" : "2020/04/30"
+        },
+        "address" : "Seongsu, Seoul",
+        "bios" : [
+          "크리에이터즈 스페이스 유지보수 및 기능 개발",
+          "리얼월드 결제 시스템 클라이언트 개발",
+          "유니크굿 사내 서비스 \"꿀떡\" 기획 및 챗봇,클라이언트 개발",
+          "리얼월드 내 미니게임 웹뷰 개발",
+          "realworld.to 게임 목록, 상세 페이지 구성"
+        ]
+      },
+      {
+        "name" : "레드캡엑스",
+        "job" : "Full Stack Developer",
+        "date" : {
+          "start" : "2021/01/05",
+          "end" : "2021/08/30"
+        },
+        "address" : "Seocho, Seoul",
+        "bios" : [
+          "취존만담(mandam.co.kr), 빡독(bbakdok.com) 기능 개발 유지보수 업무",
+          "최선어학원 온라인수업(youtu.be/as6pBDua1Bo) 홈페이지, 수업도구 서비스 개발",
+          "차박지도(youtu.be/Nt4k8gXAPZY) 앱내 초기 캠핑, 인기 차박지, 화장실, 리뷰 데이터 수집 가공",          
+          "노량진코인 사내 프로젝트(https://url.kr/81who9) 데이터 수집 스케줄러, 기능 개발"
+        ]
+      },
+      {
+        "name" : "프리랜서",
+        "job" : "Programmer",
+        "date" : {
+          "start" : "2021/09/01",
+          "end" : "2022/02/01"
+        },
+        "address" : "Remote",
+        "bios" : [
+          "나비 아트센터 AI 젠이를 도와줘 웹개발",
+          "정보화교육 디지털시민법정 게이미피케이션 웹개발",
+          "인스타그램 피드분석, DM발송 솔루션 제작",
+          "창원시주민대회 투표 솔루션 제작",
+          "롤대리업체 구매 후기 게시판 솔루션 구현",
+          "국내 단체 당원관리 솔루션 제작",
+          "네이버 블로그 검색순위 분석 솔루션 제작",
+          "크몽 https://kmong.com/@myungjaeyu"
+        ]
+      }      
+    ],
+    "eduandcert" : {
+      "edu" : [
+        {
+          "title" : "몽골 국립 대학교",
+          "name"  : "몽골어학과",
+          "date" : {
+            "start" : "2014/02/18",
+            "end" : "2014/04/02"
+          }
+        }
+      ],
+      "cert" : [
+      ]
+    },
+    "footer" : {
+        "live": false
+    }
+}
