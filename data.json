@@ -1,21 +1,30 @@
 {
     "header" : {
-      "avatar" : "https://avatars0.githubusercontent.com/u/21367010?s=460&v=4",
+      "avatar" : "https://static.wanted.co.kr/images/avatars/126266/b163b8ea.jpg",
       "name": "Myungjae Yu",
       "job" : "Javascript Developer",
-      "bio" : "안녕하세요. 저는 자바스크립트 개발자입니다. 좋은 에너지의 사람들과 좋은 인연을 맺고 싶습니다. 저의 능력으로 회사에 큰 기여를 하고 싶은 바람이 있습니다. 저는 어릴 적부터 항상 무언가 만드는 걸 좋아했습니다. 제가 필요로 하는 것을 만드는 것에 재미를 느낍니다. 누군가는 저걸 왜 만드는 걸까? 라고 쉽게 말할 수도 있겠지만 저는 그것이 필요함을 느껴 만들었고 그것으로 만족합니다. 그리고 그것에 공감해주는 사람들에게 큰 기쁨을 느낍니다. 그것이 저의 개발 원동력이라고 생각합니다. 가끔은 저의 선생님이, 가끔은 저의 형, 누나가 되어주실 회사를 찾고 있습니다. 오랜 기간 함께 하는 서비스를 만들고 싶습니다.",
-      "email" : "u4bi@yahoo.com",
+      "bio" : "안녕하세요. 저는 자바스크립트 개발자입니다. 좋은 에너지의 사람들과 좋은 인연을 맺고 싶습니다. 저는 어릴 적부터 항상 무언가 만드는 걸 좋아했습니다. 제가 필요로 하는 것을 만드는 것에 재미를 느낍니다. 누군가는 저걸 왜 만드는 걸까? 라고 쉽게 말할 수도 있겠지만 저는 그것이 필요함을 느껴 만들었고 그것으로 만족합니다. 그리고 그것에 공감해주는 사람들에게 큰 기쁨을 느낍니다. 그것이 저의 개발 원동력이라고 생각합니다. 가끔은 저의 선생님이, 가끔은 저의 형, 누나가 되어주실 회사를 찾고 있습니다. 오랜 기간 함께 하는 서비스를 만들고 싶습니다.",
+      "email" : "myungjaeyu@yahoo.com",
       "icon" : {
         "github"    : "https://github.com/myungjaeyu",
         "facebook"  : "https://www.facebook.com/mjfacebook",
-        "instagram" : "https://www.instagram.com/myungjaeyu",
+        "instagram" : "https://www.instagram.com/evaledsquare",
         "website"   : "https://myungjaeyu.github.io"
       }
     },
     "projects" : [
       {
-        "name" : "스포츠 가상 베팅 콘텐츠 커뮤니티 서비스",
-        "link" : "https://www.wanted.co.kr/gigs/api-v2/download/experts/20136/19g61kwt1jt59",
+        "name": "[크몽엔터프라이즈] 의뢰사 ERP 웹사이트 프론트 신규 개발",
+        "link": "",
+        "date": {
+            "start": "2022/10/17",
+            "end" : "2022/12/31"
+        },
+        "bio": "ERP 웹 사이트 신규개발 컴포넌트 개발 API연동 및 서드파티 라이브러리 연동"
+      },
+      {
+        "name" : "스포츠 가상 베팅 콘텐츠 커뮤니티 서비스 (gall.kr)",
+        "link" : "https://gall.kr",
         "date" : {
           "start": "",
           "end": ""
